@@ -52,6 +52,7 @@ The model.py file contains the code for training and saving the convolution neur
 #### 1. An appropriate model architecture has been employed
 
 My model consists of a NVIDIA architecture model as shown below:
+
 ![alt text](screenshots/NN_Nvidia.jpg)
 
 The model includes RELU layers to introduce nonlinearity and the data is normalized in the model using a Keras lambda layer.
@@ -91,6 +92,7 @@ The final model architecture (model.py lines 18-24) consisted of a convolution n
 #### 3. Creation of the Training Set & Training Process
 
 To capture good driving behavior, I first recorded 4-5 laps on track one using center lane driving. Here is an example image of center lane driving:
+
 ![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image")
 
 
