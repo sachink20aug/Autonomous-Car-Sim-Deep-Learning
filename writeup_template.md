@@ -86,13 +86,13 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 #### 2. Final Model Architecture
 
 The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes :
-[image5]: ./screenshots/NN_Params.jpg
+![image5] (screenshots/NN_Params.jpg)
 
 #### 3. Creation of the Training Set & Training Process
 
 To capture good driving behavior, I first recorded 4-5 laps on track one using center lane driving. Here is an example image of center lane driving:
 
-[image1]: ./screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image"
+![image6] (screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image")
 
 
 I then collected left and right images as well for every corresponding center image.
@@ -107,5 +107,5 @@ I finally randomly shuffled the data set and put 20% of the data into a validati
 I used this training data for training the model.The validation set helped determine if the model was over or under fitting. The ideal number of epochs was 5 by trial and error. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
 Here is the graph that shows the error between the epochs and model mean squared error:
-[image6]: ./screenshots/model_mse.png
+![image7]: (screenshots/model_mse.png)
 
