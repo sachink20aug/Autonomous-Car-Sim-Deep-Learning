@@ -18,8 +18,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image"
-[image2]: ./screenshots/left_2018_04_07_01_19_03_103 "Left Image"
+![image1]: [screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image"]
+![image2]: [screenshots/left_2018_04_07_01_19_03_103 "Left Image"]
 [image3]: ./screenshots/right_2018_04_07_01_13_22_751 "Right Image"
 
 
