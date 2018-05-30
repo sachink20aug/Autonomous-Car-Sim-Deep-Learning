@@ -52,7 +52,7 @@ The model.py file contains the code for training and saving the convolution neur
 #### 1. An appropriate model architecture has been employed
 
 My model consists of a NVIDIA architecture model as shown below:
-![image4]: [screenshots/NN_Nvidia.jpg]
+![image4] (screenshots/NN_Nvidia.jpg)
 
 The model includes RELU layers to introduce nonlinearity and the data is normalized in the model using a Keras lambda layer.
 
