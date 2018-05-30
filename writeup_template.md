@@ -85,13 +85,12 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 #### 2. Final Model Architecture
 
-The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes 
+The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes: 
 ![alt text](screenshots/NN_Params.jpg)
 
 #### 3. Creation of the Training Set & Training Process
 
 To capture good driving behavior, I first recorded 4-5 laps on track one using center lane driving. Here is an example image of center lane driving:
-
 ![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image")
 
 
