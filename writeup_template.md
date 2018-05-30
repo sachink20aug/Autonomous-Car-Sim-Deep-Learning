@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image")
-![alt text](screenshots/left_2018_04_07_01_19_03_103 "Left Image")
-![alt text](screenshots/right_2018_04_07_01_13_22_751 "Right Image")
+![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg)
+![alt text](screenshots/left_2018_04_07_01_19_03_103.jpg)
+![alt text](screenshots/right_2018_04_07_01_13_22_751.jpg)
 
 
 ## Rubric Points
