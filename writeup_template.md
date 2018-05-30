@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg)
-![alt text](screenshots/left_2018_04_07_01_19_03_103.jpg)
-![alt text](screenshots/right_2018_04_07_01_13_22_751.jpg)
+![alt text](screenshots/center_2018_04_07_01_12_46_283.jpg "Center Image")
+![alt text](screenshots/left_2018_04_07_01_19_03_103.jpg "Left Image")
+![alt text](screenshots/right_2018_04_07_01_13_22_751.jpg "Right Image")
 
 
 ## Rubric Points
@@ -85,7 +85,7 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 #### 2. Final Model Architecture
 
-The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes :
+The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes 
 ![alt text](screenshots/NN_Params.jpg)
 
 #### 3. Creation of the Training Set & Training Process
